@@ -73,3 +73,4 @@ spotx.tv, 99441, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 99441, RESELLER, 7842df1d2fe2db34
 google.com, pub-6879340456864843, DIRECT, f08c47fec0942fa0
 facebook.com, 354915832474140, DIRECT, c3e20eee3f780d68
+google.com, pub-5659497315930795, DIRECT, f08c47fec0942fa0
